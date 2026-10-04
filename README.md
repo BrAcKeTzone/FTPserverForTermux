@@ -9,4 +9,4 @@ A standalone Python-based FTP server designed to run natively on Android via Ter
 
 ## Auth (FTP not FTPS)
 - User: `Admin`
-- Pass: `1234
+- Pass: `1234`
